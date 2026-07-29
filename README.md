@@ -120,7 +120,7 @@ Full SQL scripts available in the mysql/ directory.
 ---
 
 ## 🤝 **Connect With Me**
-Hey, I am [Oje Ebhota](https://sites.google.com/view/oje-ebhota-data-portfolio/home)  and I love working with big data Let’s connect and discuss data, analytics, or anything tech-related!
+Hey, I am [Oje Ebhota](https://sites.google.com/view/oje-ebhota-data-portfolio/home)  and I love working with big data Let’s connect and discuss data, analytics, Data Science, Machine Learning or AI Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oje-ebhota-65592246/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ojem1)
@@ -134,7 +134,13 @@ Most procurement dashboards report historical KPIs. This project demonstrates ho
 The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
 
 ---
+---
+## 🤔 Why I Built This
+Most procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
 
+The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
+
+---
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
