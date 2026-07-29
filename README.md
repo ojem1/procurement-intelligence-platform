@@ -116,13 +116,26 @@ Full SQL scripts available in the mysql/ directory.
 | ERP Data Transformation     | Data Storytelling          |
 
 ---
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 🤝 **Connect With Me**
+Hey, I am [Oje Ebhota](https://sites.google.com/view/oje-ebhota-data-portfolio/home)  and I love working with big data Let’s connect and discuss data, analytics, or anything tech-related!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oje-ebhota-65592246/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ojem1)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ojem1@yahoo.com)
+
+---
+---
 ## 🤔 Why I Built This
-ost procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
+Most procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
 
 The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
 
 ---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+
