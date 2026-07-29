@@ -97,7 +97,6 @@ Full SQL scripts available in the mysql/ directory.
 ```
 
 ---
-## 🎯 Repository Structure
 
 ## 📁 Repository Structure
 
