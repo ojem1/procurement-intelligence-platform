@@ -93,14 +93,14 @@ SELECT
     ROUND((total_spend / max_spend) * 30 + (error_rate_pct / 30) * 30, 2) AS vendor_risk_score
 FROM cte_vendor_metrics;
 Full SQL scripts available in the mysql/ directory.
-
+```
 📁 Repository
 
 /mysql            # SQL scoring models
 /tableau         # Interactive dashboards
 /reports         # Executive summary & full report
 /data            # Synthetic ERP dataset
-
+```
 🛠️ Skills Demonstrated
 
 | Technical | Business |
@@ -114,4 +114,5 @@ Full SQL scripts available in the mysql/ directory.
 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+```
 
