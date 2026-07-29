@@ -117,6 +117,7 @@ Full SQL scripts available in the mysql/ directory.
 ---
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 ---
 ## 🎯 Business Problem
 Procurement teams often rely on **historical reports** rather than **actionable insights**. This platform bridges the gap by:
