@@ -157,7 +157,7 @@ open tableau/ProcurementDashboard.twbx
 ---
 
 ## 🤝 **Connect With Me**
-Hey, I am [Oje Ebhota](https://sites.google.com/view/oje-ebhota-data-portfolio/home)  and I love working with big data Let’s connect and discuss data, analytics, Data Science, Machine Learning or AI Automation
+Hi, I’m Oje Ebhota, a data and analytics professional. I specialize in leveraging big data, analytics, data science, machine learning, and AI automation to drive business growth and efficiency. Let’s connect to explore how we can transform your data into actionable insights!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oje-ebhota-65592246/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ojem1)
