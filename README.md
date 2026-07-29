@@ -98,13 +98,32 @@ Full SQL scripts available in the mysql/ directory.
 
 ---
 ## 🎯 Repository Structure
-├── mysql/            # SQL scoring models
-├── tableau/         # Interactive dashboards
-├── reports/         # Executive summary & full report
-└── data/            # Synthetic ERP dataset
+
+## 📁 Repository Structure
+
+```
+.
+├── mysql/
+│   ├── case_study_1_risk_assessment.sql
+│   ├── case_study_2_contract_intelligence.sql
+│   └── case_study_3_supplier_development.sql
+│
+├── tableau/
+│   └── ProcurementDashboard.twbx
+│
+├── docs/
+│   ├── Executive_Summary.pdf
+│   ├── Full_Project_Report.pdf
+│   └── images/
+│
+├── data/
+│   └── synthetic_erp_data.csv
+│
+└── README.md
+```
 
 ---
----
+
 ## 🛠️ Skills Demonstrated
 
 | **Technical**               | **Business**               |
