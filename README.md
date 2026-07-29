@@ -95,13 +95,13 @@ FROM cte_vendor_metrics;
 
 Full SQL scripts available in the mysql/ directory.
 
-📁 ##Repository
+## 📁 Repository
 /mysql            # SQL scoring models
 /tableau         # Interactive dashboards
 /reports         # Executive summary & full report
 /data            # Synthetic ERP dataset
 
-🛠️ ##Skills Demonstrated
+## 🛠️ Skills Demonstrated
 | Technical | Business |
 | --- | --- |
 | SQL (CTEs, Window Functions) | Procurement Analytics |
@@ -110,5 +110,5 @@ Full SQL scripts available in the mysql/ directory.
 | Business Rules | Decision Modeling |
 | ERP Data Transformation | Data Storytelling |
 
-📜 ##License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
