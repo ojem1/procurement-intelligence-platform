@@ -111,8 +111,17 @@ Full SQL scripts available in the mysql/ directory.
 | Business Rules | Decision Modeling |
 | ERP Data Transformation | Data Storytelling |
 ---
+
 📜 License
-
 This project is licensed under the MIT License – see the LICENSE file for details.
-```
 
+👤 About the Author
+Oje Ebhota — Data & Analytics Consultant
+
+🔹 19+ years of enterprise technology experience
+
+🔹 SQL | Tableau | Procurement Analytics | AI Automation
+
+🔹 LinkedIn • Portfolio
+
+text
