@@ -91,6 +91,11 @@ SELECT
     vendor_name,
     total_spend,
     ROUND((total_spend / max_spend) * 30 + (error_rate_pct / 30) * 30, 2) AS vendor_risk_score
+
+FROM cte_vendor_metrics;
+Full SQL scripts available in the mysql/ directory.
+```
+
 ---
 ## 🎯 Business Problem
 Procurement teams often rely on **historical reports** rather than **actionable insights**. This platform bridges the gap by:
@@ -99,6 +104,3 @@ Procurement teams often rely on **historical reports** rather than **actionable 
 - Segmenting suppliers to **optimize relationships and mitigate risks**.
 
 ---
-FROM cte_vendor_metrics;
-Full SQL scripts available in the mysql/ directory.
-```
