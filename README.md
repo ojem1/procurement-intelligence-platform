@@ -97,10 +97,23 @@ Full SQL scripts available in the mysql/ directory.
 ```
 
 ---
-## 🎯 Business Problem
-Procurement teams often rely on **historical reports** rather than **actionable insights**. This platform bridges the gap by:
-- Identifying **high-risk suppliers** before they disrupt operations.
-- Highlighting **contract opportunities** tied to demand trends.
-- Segmenting suppliers to **optimize relationships and mitigate risks**.
+## 🎯 Repository Structure
+├── mysql/            # SQL scoring models
+├── tableau/         # Interactive dashboards
+├── reports/         # Executive summary & full report
+└── data/            # Synthetic ERP dataset
+---
+---
+## 🛠️ Skills Demonstrated
+
+| **Technical**               | **Business**               |
+|-----------------------------|----------------------------|
+| SQL (CTEs, Window Functions) | Procurement Analytics      |
+| Tableau                     | Executive Reporting        |
+| Data Modeling               | KPI Design                 |
+| Business Rules              | Decision Modeling          |
+| ERP Data Transformation     | Data Storytelling          |
 
 ---
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
