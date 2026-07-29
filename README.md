@@ -117,3 +117,11 @@ Full SQL scripts available in the mysql/ directory.
 ---
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+---
+## 🎯 Business Problem
+Procurement teams often rely on **historical reports** rather than **actionable insights**. This platform bridges the gap by:
+- Identifying **high-risk suppliers** before they disrupt operations.
+- Highlighting **contract opportunities** tied to demand trends.
+- Segmenting suppliers to **optimize relationships and mitigate risks**.
+
+---
