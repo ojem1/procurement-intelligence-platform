@@ -91,55 +91,14 @@ SELECT
     vendor_name,
     total_spend,
     ROUND((total_spend / max_spend) * 30 + (error_rate_pct / 30) * 30, 2) AS vendor_risk_score
+---
+## 🎯 Business Problem
+Procurement teams often rely on **historical reports** rather than **actionable insights**. This platform bridges the gap by:
+- Identifying **high-risk suppliers** before they disrupt operations.
+- Highlighting **contract opportunities** tied to demand trends.
+- Segmenting suppliers to **optimize relationships and mitigate risks**.
+
+---
 FROM cte_vendor_metrics;
 Full SQL scripts available in the mysql/ directory.
 ```
-📁 Repository Structure
-text
-.
-├── mysql/
-│   ├── case_study_1_risk_assessment.sql
-│   ├── case_study_2_contract_intelligence.sql
-│   └── case_study_3_supplier_development.sql
-│
-├── tableau/
-│   └── ProcurementDashboard.twbx
-│
-├── docs/
-│   ├── Executive_Summary.pdf
-│   ├── Full_Project_Report.pdf
-│   └── images/
-│
-├── data/
-│   └── synthetic_erp_data.csv
-│
-└── README.md
-🛠️ Skills Demonstrated
-Technical
-Skill	Description
-SQL	CTEs, Window Functions, Aggregations
-Tableau	Executive Dashboards, KPI Design
-Data Modeling	Scoring Models, Business Rules
-ERP Data Transformation	Data Cleaning, Joins, Aggregation
-Business
-Skill	Description
-Procurement Analytics	Supplier Risk, Contract Optimization
-Executive Reporting	Dashboard Design, Data Storytelling
-Decision Modeling	Weighted Scoring, Decision Thresholds
-KPI Design	Business Metric Definition, Target Setting
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-👤 About the Author
-Oje Ebhota — Data & Analytics Consultant
-
-🔹 19+ years of enterprise technology experience
-
-🔹 SQL | Tableau | Procurement Analytics | AI Automation
-
-🔹 LinkedIn • Portfolio
-
-🤔 Why I Built This
-Most procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
-
-The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
