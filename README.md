@@ -117,8 +117,6 @@ Full SQL scripts available in the mysql/ directory.
 
 ---
 
----
-
 ## 🤝 **Connect With Me**
 Hey, I am [Oje Ebhota](https://sites.google.com/view/oje-ebhota-data-portfolio/home)  and I love working with big data Let’s connect and discuss data, analytics, Data Science, Machine Learning or AI Automation
 
@@ -134,11 +132,21 @@ Most procurement dashboards report historical KPIs. This project demonstrates ho
 The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
 
 ---
----
-## 🤔 Why I Built This
-Most procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
+## 🚀 How to Run This Project
+# 1. Clone the repository
+git clone https://github.com/yourusername/procurement-intelligence-platform.git
 
-The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
+# 2. Import the SQL scripts into your MySQL database
+mysql -u username -p database_name < mysql/case_study_1_risk_assessment.sql
+mysql -u username -p database_name < mysql/case_study_2_contract_intelligence.sql
+mysql -u username -p database_name < mysql/case_study_3_supplier_development.sql
+
+# 3. Open the Tableau workbook
+open tableau/ProcurementDashboard.twbx
+
+# 4. Connect Tableau to your data source
+
+# 5. Explore the dashboards
 
 ---
 ## 📜 License
