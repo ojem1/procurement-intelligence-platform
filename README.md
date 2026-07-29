@@ -102,6 +102,7 @@ Full SQL scripts available in the mysql/ directory.
 ├── tableau/         # Interactive dashboards
 ├── reports/         # Executive summary & full report
 └── data/            # Synthetic ERP dataset
+
 ---
 ---
 ## 🛠️ Skills Demonstrated
@@ -119,10 +120,9 @@ Full SQL scripts available in the mysql/ directory.
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
-## 🎯 Business Problem
-Procurement teams often rely on **historical reports** rather than **actionable insights**. This platform bridges the gap by:
-- Identifying **high-risk suppliers** before they disrupt operations.
-- Highlighting **contract opportunities** tied to demand trends.
-- Segmenting suppliers to **optimize relationships and mitigate risks**.
+## 🤔 Why I Built This
+ost procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
+
+The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
 
 ---
