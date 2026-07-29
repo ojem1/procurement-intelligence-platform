@@ -1,0 +1,101 @@
+﻿id,vendor_id,vendor_name,vendor_code,vendor_type,contact_name,email,phone,tax_id,currency,payment_terms,bank_account,status,risk_level,preferred_vendor,notes
+1,VEND001,ABCD & CO,ABCD001,Supplier,Rajesh Kumar,accounts@abcdco.com,'+1-555-100-1001,TIN-10023456,INR,Net 30,12345678901,Active,Low,True,Primary raw materials supplier.
+2,VEND002,Samira Hadid,LOCAL001,Supplier,Samira Hadid,billing@localstore.com,'+1-555-100-1002,TIN-20034567,USD,Net 30,23456789012,Active,Low,False,Local supplier.
+3,VEND003,IMPORTING COMPANY,IMPORT001,Supplier,Maria Rossi,finance@importco.com,'+39-5658-444-52474,TIN-30045678,USD,Net 45,34567890123,Active,Medium,True,International supplier.
+4,VEND004,Dell Technologies,DELL001,Supplier,Enterprise Sales,invoices@dell.com,'+1-800-999-3355,TIN-40056789,USD,Net 30,45678901234,Active,Low,True,IT hardware supplier.
+5,VEND005,Microsoft Corporation,MSFT001,Service Provider,Licensing Department,billing@microsoft.com,'+1-800-642-7676,TIN-50067890,USD,Net 30,56789012345,Active,Low,True,Software licensing.
+6,VEND006,Amazon Business,AMZN001,Supplier,Business Accounts,invoice@amazon.com,'+1-888-280-4331,TIN-60078901,USD,Due on Receipt,67890123456,Active,Low,False,Office and IT supplies.
+7,VEND007,Staples Inc.,STAP001,Supplier,Accounts Receivable,ap@staples.com,'+1-800-333-3330,TIN-70089012,USD,Net 30,78901234567,Active,Low,True,Office supplies.
+8,VEND008,DHL Express,DHL001,Service Provider,Billing Department,billing@dhl.com,'+1-800-225-5345,TIN-80090123,USD,Net 15,89012345678,Active,Low,True,Logistics partner.
+9,VEND009,Office Furniture World,OFW001,Supplier,Corporate Sales,accounts@officeworld.com,'+1-555-100-1009,TIN-90001234,USD,Net 45,90123456789,Active,Medium,False,Furniture supplier.
+10,VEND010,Vintage Store,TECH001,Supplier,Accounts,finance@techsupplies.com,'+1-555-100-1010,TIN-10012345,USD,Net 30,01234567890,Inactive,High,False,Inactive vendor.
+21,VEND011,Global Supplies Inc,GLOBAL001,Supplier,Sofia Patel,ap@globalsupplies.com,'+44-20-7946-0235,TIN-11012345,USD,Net 60,12345678911,Active,Medium,False,International sourcing and procurement.
+22,VEND012,Elite Services,ELITE001,Service Provider,Thomas Wilson,billing@eliteservices.com,'+1-555-100-1012,TIN-12023456,USD,Net 30,23456789012,Active,Low,False,Facility maintenance and janitorial services.
+23,VEND013,Quick Logistics,QLOG001,Service Provider,Patricia Taylor,ap@quicklogistics.com,'+1-555-100-1013,TIN-13034567,USD,Net 30,34567890123,Active,Medium,False,Domestic freight and courier services.
+24,VEND014,Modern Office Co,MODOF001,Supplier,Christopher Moore,accounts@modernoffice.com,'+91-22-1234-5678,TIN-14045678,USD,Net 30,45678901234,Active,Low,False,Contemporary office furniture.
+25,VEND015,Best Buy Corp,BBY001,Supplier,Jessica Anderson,invoices@bestbuy.com,'+1-555-100-1015,TIN-15056789,USD,Net 30,56789012345,Active,Low,False,Consumer electronics and appliances.
+26,VEND016,New Horizons,NH001,Service Provider,Daniel Thomas,finance@newhorizons.com,'+49-30-12345678,TIN-16067890,USD,Net 45,67890123456,Active,Low,False,Strategic business consulting.
+27,VEND017,Pinnacle Partners,PIN001,Service Provider,Laura White,ap@pinnaclepartners.com,'+1-555-100-1017,TIN-17078901,USD,Net 30,78901234567,Active,Low,False,Financial advisory and investment services.
+28,VEND018,Summit Systems,SUMMIT001,Supplier,Robert Harris,billing@summitsys.com,'+44-20-7946-0999,TIN-18089012,USD,Net 45,89012345678,Active,Low,False,Enterprise software solutions.
+29,VEND019,Vanguard Tech,VGT001,Supplier,Emily Clark,ap@vanguardtech.com,'+1-555-100-1019,TIN-19090123,USD,Net 30,90123456789,Active,Low,True,High-performance computing and networking equipment.
+30,VEND020,Alpha Industries,ALPHA001,Supplier,David Robinson,finance@alphaindustries.com,'+91-11-2345-6789,TIN-20001234,USD,Net 60,01234567890,Active,Medium,False,Heavy machinery and industrial equipment.
+31,VEND021,Johnson Controls,JCI001,Supplier,Mike Johnson,ap@johnsoncontrols.com,'+1-414-524-1200,TIN-21012345,USD,Net 45,21012345678,Active,Low,False,HVAC and building automation systems.
+32,VEND022,Siemens AG,SIEM001,Supplier,Hans Mueller,invoices@siemens.com,'+49-89-636-12345,TIN-22023456,EUR,Net 60,22023456789,Active,Low,False,Industrial automation and electrical equipment.
+33,VEND023,Caterpillar Inc.,CAT001,Supplier,Robert Miller,ap@caterpillar.com,'+1-309-675-1000,TIN-23034567,USD,Net 45,23034567890,Active,Medium,False,Heavy machinery and construction equipment.
+34,VEND024,Schneider Electric,SCH001,Supplier,Marie Dubois,invoices@schneider-electric.com,'+33-1-41-29-70-00,TIN-24045678,EUR,Net 45,24045678901,Active,Low,False,Energy management and automation solutions.
+35,VEND025,ABB Ltd,ABB001,Supplier,Erik Svensson,ap@abb.com,'+41-43-317-7111,TIN-25056789,CHF,Net 60,25056789012,Active,Low,False,Power and automation technologies.
+36,VEND026,General Electric,GE001,Supplier,James Anderson,invoices@ge.com,'+1-617-443-3000,TIN-26067890,USD,Net 45,26067890123,Active,Low,False,Power generation and renewable energy equipment.
+37,VEND027,Honeywell International,HON001,Supplier,David Brown,ap@honeywell.com,'+1-973-455-2000,TIN-27078901,USD,Net 30,27078901234,Active,Low,False,Safety and productivity solutions.
+38,VEND028,Emerson Electric Co.,EMR001,Supplier,Susan Davis,ap@emerson.com,'+1-314-553-2000,TIN-28089012,USD,Net 30,28089012345,Active,Low,False,Industrial automation and process control.
+39,VEND029,Rockwell Automation,ROK001,Supplier,Michael Wilson,invoices@rockwellautomation.com,'+1-414-382-2000,TIN-29090123,USD,Net 45,29090123456,Active,Low,False,Industrial automation and information.
+40,VEND030,Bosch Rexroth AG,BOS001,Supplier,Friedrich Schmidt,ap@boschrexroth.com,'+49-9352-18-0,TIN-30001234,EUR,Net 60,30001234567,Active,Low,False,Industrial hydraulics and automation.
+41,VEND031,FedEx Corporation,FED001,Service Provider,Karen Martinez,billing@fedex.com,'+1-901-818-7500,TIN-31012345,USD,Net 15,31012345678,Active,Low,True,Global express shipping and logistics.
+42,VEND032,UPS Supply Chain Solutions,UPS001,Service Provider,John Thompson,ap@ups.com,'+1-404-828-6000,TIN-32023456,USD,Net 30,32023456789,Active,Low,False,Logistics and supply chain services.
+43,VEND033,Maersk Line,MAE001,Service Provider,Lars Jensen,finance@maersk.com,'+45-3363-3363,TIN-33034567,USD,Net 30,33034567890,Active,Medium,False,Container shipping and logistics.
+44,VEND034,C.H. Robinson Worldwide,CHR001,Service Provider,Timothy Clark,invoices@chrobinson.com,'+1-952-937-8500,TIN-34045678,USD,Net 30,34045678901,Active,Medium,False,Freight forwarding and logistics services.
+45,VEND035,Expeditors International,EXP001,Service Provider,Phillip Brown,ap@expeditors.com,'+1-206-674-3400,TIN-35056789,USD,Net 30,35056789012,Active,Low,False,Global logistics and freight forwarding.
+46,VEND036,Kuehne + Nagel,KUN001,Service Provider,Hans-Peter Mueller,finance@kuehne-nagel.com,'+41-44-786-95-00,TIN-36067890,CHF,Net 30,36067890123,Active,Low,False,International logistics and supply chain.
+47,VEND037,Atlas Air Worldwide,ATL001,Service Provider,James Smith,invoices@atlasair.com,'+1-914-701-8000,TIN-37078901,USD,Net 30,37078901234,Active,Low,False,Air cargo and logistics services.
+48,VEND038,Penske Logistics,PEN001,Service Provider,Roger Williams,ap@penske.com,'+1-610-775-6000,TIN-38089012,USD,Net 30,38089012345,Active,Low,False,Transportation and logistics solutions.
+49,VEND039,Oracle Corporation,ORC001,Supplier,Database Licensing,invoices@oracle.com,'+1-650-506-7000,TIN-39090123,USD,Net 30,39090123456,Active,Low,False,Database software and cloud services.
+50,VEND040,SAP SE,SAP001,Supplier,Cloud Services,invoices@sap.com,'+49-6227-7-47474,TIN-40001234,EUR,Net 45,40001234567,Active,Low,True,Enterprise resource planning software.
+51,VEND041,Salesforce.com Inc.,SFS001,Supplier,Operations,invoices@salesforce.com,'+1-415-901-7000,TIN-41012345,USD,Net 30,41012345678,Active,Low,True,CRM and cloud platform solutions.
+52,VEND042,"VMware, Inc.",VMW001,Supplier,Support Services,invoices@vmware.com,'+1-650-427-5000,TIN-42023456,USD,Net 30,42023456789,Active,Low,False,Virtualization and cloud infrastructure.
+53,VEND043,Cisco Systems Inc.,CIS001,Supplier,Network Sales,invoices@cisco.com,'+1-408-526-4000,TIN-43034567,USD,Net 30,43034567890,Active,Low,True,Networking and communication equipment.
+54,VEND044,IBM Corporation,IBM001,Supplier,Accounts Receivable,invoices@ibm.com,'+1-914-499-1900,TIN-44045678,USD,Net 45,44045678901,Active,Low,False,IT infrastructure and consulting services.
+55,VEND045,Hewlett Packard Enterprise,HPE001,Supplier,Financial Operations,invoices@hpe.com,'+1-650-857-1501,TIN-45056789,USD,Net 30,45056789012,Active,Low,False,"Servers, storage and networking solutions."
+56,VEND046,Lenovo Group Limited,LNV001,Supplier,Business Accounts,invoices@lenovo.com,'+1-919-294-5900,TIN-46067890,USD,Net 30,46067890123,Active,Low,False,Computer hardware and related equipment.
+57,VEND047,Apple Inc.,APP001,Supplier,Corporate Sales,invoices@apple.com,'+1-408-996-1010,TIN-47078901,USD,Net 30,47078901234,Active,Low,True,Computer hardware and mobile devices.
+58,VEND048,Cummins Inc.,CUM001,Supplier,Parts Sales,invoices@cummins.com,'+1-812-377-5000,TIN-48089012,USD,Net 45,48089012345,Active,Medium,False,Engines and power generation equipment.
+59,VEND049,Parker Hannifin Corporation,PAR001,Supplier,Industrial Sales,invoices@parker.com,'+1-216-896-3000,TIN-49090123,USD,Net 45,49090123456,Active,Medium,False,Motion control and hydraulic equipment.
+60,VEND050,Festo AG & Co. KG,FES001,Supplier,Automation Sales,invoices@festo.com,'+49-711-347-0,TIN-50001234,EUR,Net 45,50001234567,Active,Low,False,Pneumatic and electric automation systems.
+61,VEND051,Thomson Reuters,THO001,Service Provider,Legal Services,invoices@thomsonreuters.com,'+1-416-571-6000,TIN-51012345,USD,Net 45,51012345678,Active,Low,False,Legal research and compliance solutions.
+62,VEND052,Moody's Analytics,MOO001,Service Provider,Risk Solutions,invoices@moodys.com,'+1-212-553-0300,TIN-52023456,USD,Net 30,52023456789,Active,Low,False,Credit risk and financial analytics.
+63,VEND053,S&P Global Inc.,SPG001,Service Provider,Research Services,invoices@spglobal.com,'+1-212-438-1000,TIN-53034567,USD,Net 45,53034567890,Active,Low,False,Market intelligence and ratings services.
+64,VEND054,"FTI Consulting, Inc.",FTI001,Service Provider,Forensic Services,invoices@fticonsulting.com,'+1-202-312-9100,TIN-54045678,USD,Net 30,54045678901,Active,Low,False,Financial consulting and advisory services.
+65,VEND055,Deloitte & Touche LLP,DEL001,Service Provider,Audit Services,invoices@deloitte.com,'+1-212-492-4000,TIN-55056789,USD,Net 45,55056789012,Active,Low,False,"Audit, consulting, and advisory services."
+66,VEND056,PricewaterhouseCoopers LLP,PWC001,Service Provider,Tax Services,invoices@pwc.com,'+1-646-471-4000,TIN-56067890,USD,Net 45,56067890123,Active,Low,False,Audit and professional services.
+67,VEND057,Ernst & Young LLP,EY001,Service Provider,Advisory Services,invoices@ey.com,'+1-212-773-3000,TIN-57078901,USD,Net 45,57078901234,Active,Low,False,Advisory and assurance services.
+68,VEND058,KPMG LLP,KPM001,Service Provider,Financial Advisory,invoices@kpmg.com,'+1-212-758-9700,TIN-58089012,USD,Net 45,58089012345,Active,Low,False,Audit and financial advisory services.
+69,VEND059,McKinsey & Company,MCK001,Service Provider,Management Consulting,invoices@mckinsey.com,'+1-212-446-7000,TIN-59090123,USD,Net 30,59090123456,Active,Low,False,Management consulting services.
+70,VEND060,Boston Consulting Group,BCG001,Service Provider,Operations Consulting,invoices@bcg.com,'+1-617-973-1200,TIN-60001234,USD,Net 30,60001234567,Active,Low,False,Strategy consulting services.
+71,VEND061,Bain & Company,BAI001,Service Provider,Strategy Services,invoices@bain.com,'+1-617-572-2000,TIN-61012345,USD,Net 30,61012345678,Active,Low,False,Business strategy consulting.
+72,VEND062,Accenture PLC,ACC001,Service Provider,Technology Services,invoices@accenture.com,'+1-312-693-0161,TIN-62023456,USD,Net 45,62023456789,Active,Low,True,Technology consulting and outsourcing.
+73,VEND063,McDonald's Corporate,MCD001,Supplier,Food Services,invoices@mcdonalds.com,'+1-312-553-3626,TIN-63034567,USD,Net 30,63034567890,Active,Low,False,Catering and food services.
+74,VEND064,Aramark Corporation,ARA001,Service Provider,Facility Services,invoices@aramark.com,'+1-215-238-3000,TIN-64045678,USD,Net 30,64045678901,Active,Low,False,Cafeteria and vending services.
+75,VEND065,Sodexo S.A.,SOD001,Service Provider,FM Services,invoices@sodexo.com,'+33-1-57-63-40-00,TIN-65056789,EUR,Net 30,65056789012,Active,Low,False,Food and facility management services.
+76,VEND066,Jones Lang LaSalle,JLL001,Service Provider,Property Services,invoices@jll.com,'+1-312-228-2000,TIN-66067890,USD,Net 45,66067890123,Active,Medium,False,Commercial real estate and property management.
+77,VEND067,"CBRE Group, Inc.",CBRE001,Service Provider,Facilities Management,invoices@cbre.com,'+1-213-613-3000,TIN-67078901,USD,Net 45,67078901234,Active,Medium,False,Property management and leasing.
+78,VEND068,Securitas AB,SEC001,Service Provider,Security Services,invoices@securitas.com,'+46-10-470-30-00,TIN-68089012,SEK,Net 30,68089012345,Active,Low,False,Security services.
+79,VEND069,ADT Inc.,ADT001,Service Provider,Security Operations,invoices@adt.com,'+1-561-988-3600,TIN-69090123,USD,Net 30,69090123456,Active,Low,False,Electronic security systems.
+80,VEND070,Tyco International,TYC001,Supplier,Fire Protection,invoices@tyco.com,'+1-609-720-4000,TIN-70001234,USD,Net 30,70001234567,Active,Low,False,Fire protection and building safety.
+81,VEND071,Waste Management Inc.,WMI001,Service Provider,Waste Services,invoices@wm.com,'+1-713-512-6200,TIN-71012345,USD,Net 30,71012345678,Active,Low,False,Waste disposal services.
+82,VEND072,Republic Services,REP001,Service Provider,Waste Services,invoices@republicservices.com,'+1-480-627-2700,TIN-72023456,USD,Net 30,72023456789,Active,Low,False,Recycling and waste services.
+83,VEND073,AT&T Business,ATT001,Service Provider,Telecom Services,invoices@att.com,'+1-210-821-4105,TIN-73034567,USD,Net 30,73034567890,Active,Low,False,Telecommunications services.
+84,VEND074,Verizon Business Group,VER001,Service Provider,Business Accounts,invoices@verizon.com,'+1-800-424-3000,TIN-74045678,USD,Net 30,74045678901,Active,Low,False,Telecommunications and internet.
+85,VEND075,T-Mobile for Business,TMO001,Service Provider,Mobile Accounts,invoices@t-mobile.com,'+1-425-378-4000,TIN-75056789,USD,Net 30,75056789012,Active,Low,False,Mobile communications.
+86,VEND076,Comcast Business,CMX001,Service Provider,Broadband Services,invoices@comcast.com,'+1-215-286-1700,TIN-76067890,USD,Net 30,76067890123,Active,Low,False,Broadband and cable services.
+87,VEND077,Spectrum Business,SPE001,Service Provider,Business Services,invoices@spectrum.com,'+1-833-267-6099,TIN-77078901,USD,Net 30,77078901234,Active,Low,False,Data and voice services.
+88,VEND078,Cintas Corporation,CIN001,Service Provider,Uniform Services,invoices@cintas.com,'+1-513-459-1200,TIN-78089012,USD,Net 30,78089012345,Active,Low,False,Uniform and facility services.
+89,VEND079,UniFirst Corporation,UNI001,Service Provider,Uniform Services,invoices@unifirst.com,'+1-978-658-8888,TIN-79090123,USD,Net 30,79090123456,Active,Low,False,Workwear and protective clothing.
+90,VEND080,Ecolab Inc.,ECO001,Supplier,Sanitation Services,invoices@ecolab.com,'+1-651-293-2233,TIN-80001234,USD,Net 30,80001234567,Active,Low,False,Cleaning and sanitation products.
+91,VEND081,Kimberly-Clark Professional,KMB001,Supplier,Business Accounts,invoices@kimberlyclark.com,'+1-972-281-1200,TIN-81012345,USD,Net 30,81012345678,Active,Low,False,Sanitary and hygiene products.
+92,VEND082,Grainger Inc.,GRA001,Supplier,Industrial Supplies,invoices@grainger.com,'+1-847-913-8333,TIN-82023456,USD,Net 30,82023456789,Active,Low,False,MRO supplies and industrial equipment.
+93,VEND083,MSC Industrial Direct,MSC001,Supplier,Metalworking Supplies,invoices@mscdirect.com,'+1-516-812-2000,TIN-83034567,USD,Net 30,83034567890,Active,Low,False,Metalworking and safety supplies.
+94,VEND084,McMaster-Carr,MCM001,Supplier,Industrial Sales,invoices@mcmaster.com,'+1-630-833-0300,TIN-84045678,USD,Due on Receipt,84045678901,Active,Low,False,Industrial and maintenance supplies.
+95,VEND085,Fastenal Company,FAS001,Supplier,Fastener Sales,invoices@fastenal.com,'+1-507-454-5374,TIN-85056789,USD,Net 30,85056789012,Active,Low,False,Industrial fasteners and supplies.
+96,VEND086,W.W. Grainger International,WWG001,Supplier,Global Sales,invoices@wwgrainger.com,'+1-847-913-8333,TIN-86067890,USD,Net 30,86067890123,Active,Low,False,Industrial and safety equipment.
+97,VEND087,Hilti Corporation,HIL001,Supplier,Construction Supplies,invoices@hilti.com,'+1-918-872-8000,TIN-87078901,USD,Net 45,87078901234,Active,Low,False,Construction tools and fastening systems.
+98,VEND088,Makita Corporation,MAK001,Supplier,Power Tools,invoices@makita.com,'+1-714-522-8088,TIN-88089012,USD,Net 30,88089012345,Active,Low,False,Power tools and accessories.
+99,VEND089,DeWalt Industrial Tool Co.,DEW001,Supplier,Tool Sales,invoices@dewalt.com,'+1-800-433-9258,TIN-89090123,USD,Net 30,89090123456,Active,Low,False,Construction and woodworking tools.
+100,VEND090,Snap-on Incorporated,SNA001,Supplier,Industrial Tools,invoices@snapon.com,'+1-262-656-5200,TIN-90001234,USD,Net 45,90001234567,Active,Low,False,Professional hand tools.
+101,VEND091,Ingersoll Rand,IR001,Supplier,Compressed Air,invoices@ingersollrand.com,'+1-704-655-4000,TIN-91012345,USD,Net 45,91012345678,Active,Medium,False,Compressors and industrial equipment.
+102,VEND092,Baldor Electric Company,BAL001,Supplier,Motors Sales,invoices@baldor.com,'+1-501-646-4711,TIN-92023456,USD,Net 45,92023456789,Active,Medium,False,Electric motors and drives.
+103,VEND093,Regal Beloit Corporation,REG001,Supplier,Motion Control,invoices@regalbeloit.com,'+1-608-364-8800,TIN-93034567,USD,Net 45,93034567890,Active,Medium,False,Motion control and power transmission.
+104,VEND094,Timken Company,TIM001,Supplier,Bearings Sales,invoices@timken.com,'+1-330-438-3000,TIN-94045678,USD,Net 45,94045678901,Active,Medium,False,Bearings and power transmission.
+105,VEND095,SKF Group,SKF001,Supplier,Industrial Bearings,invoices@skf.com,'+46-31-337-1000,TIN-95056789,SEK,Net 45,95056789012,Active,Low,False,Industrial bearings and seals.
+106,VEND096,Gates Corporation,GAT001,Supplier,Belt Sales,invoices@gates.com,'+1-303-744-1911,TIN-96067890,USD,Net 45,96067890123,Active,Low,False,Power transmission and fluid power.
+107,VEND097,Goodyear Tire & Rubber,GOO001,Supplier,Commercial Tires,invoices@goodyear.com,'+1-330-796-2121,TIN-97078901,USD,Net 30,97078901234,Active,Medium,False,Commercial tires and services.
+108,VEND098,Michelin North America,MIC001,Supplier,Fleet Sales,invoices@michelin.com,'+1-864-458-5000,TIN-98089012,USD,Net 30,98089012345,Active,Medium,False,Commercial vehicle tires.
+109,VEND099,Bridgestone Americas,BRI001,Supplier,Fleet Services,invoices@bridgestone.com,'+1-615-937-1000,TIN-99090123,USD,Net 30,99090123456,Active,Medium,False,Commercial tire products.
+110,VEND100,ZF Friedrichshafen AG,ZF001,Supplier,Automotive Parts,invoices@zf.com,'+49-7541-77-0,TIN-10001234,EUR,Net 60,10001234567,Active,Low,False,Automotive and industrial components.
