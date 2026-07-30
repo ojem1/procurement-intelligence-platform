@@ -164,10 +164,8 @@ Hi, I’m Oje Ebhota, a data and analytics professional. I specialize in leverag
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ojem1@yahoo.com)
 
 ---
-## 🤔 Why I Built This
-Most procurement dashboards report historical KPIs. This project demonstrates how SQL, business rules, and visualization can be combined into a decision-support platform that recommends procurement actions rather than simply reporting metrics.
-
-The goal was to simulate how an enterprise procurement analytics team might design an executive intelligence platform using synthetic ERP data.
+## 🙏 Acknowledgments
+This project was developed as a comprehensive analytics solution for procurement decision support. All data used is synthetic. The project demonstrates SQL engineering, business logic development, and executive reporting capabilities.
 
 ---
 ## 📜 License
