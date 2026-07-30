@@ -1,0 +1,20 @@
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local data files
+data/
+dataset/
+
+# Ignore Tableau files
+*.twbx
+*.twb
+
+# Ignore log files
+*.log
+*.tmp
